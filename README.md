@@ -36,11 +36,20 @@ Here are some ideas to get you started:
 
 ## 💻 Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,figma,php,androidstudio,vscode,windows,mysql,firebase&perline=10)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,figma,php,androidstudio,vscode,windows,mysql,firebase&perline=10)
 <br>
+
+## 🔗 Connect with me!
+
+[![Connect with me](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dizaaa.1nonly/) [![Connect with me](https://skillicons.dev/icons?i=discord)](https://discord.gg/wPBkprEwaN) [![Connect with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rahmatian-diza-256315223/)
 
 <p align="center">
   <img src="img/left.gif" width="200" style="vertical-align: middle;" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=owlopsss&theme=dark&hide_border=false" width="400" style="vertical-align: middle;" />
   <img src="img/right.gif" width="200" style="vertical-align: middle;" />
 </p>
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/namamu)
+[![Email](https://img.shields.io/badge/Email-owlopsss@gmail.com-red?style=flat&logo=gmail)](mailto:kamu@email.com)
