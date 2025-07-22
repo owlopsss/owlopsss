@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Exploring+Code+like+an+Adventure!;Android+Dev+%7C+Open+to+Collaborate+%7C+Growth+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&cursorColor=FFFFFF&width=435&lines=Exploring+Code+like+an+Adventure!;Android+Dev+%7C+Open+to+Collaborate+%7C+Growth+Mindset" alt="Typing SVG" />
 </p>
 
 ### 👋 Hi, I’m **Diza**
