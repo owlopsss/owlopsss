@@ -1,6 +1,6 @@
 <!-- ![header](header/header.gif) -->
 <p align="center">
-  <img src="header/header.gif" alt="header" />
+  <img src="header/header1.png" alt="header" />
 </p>
 
 <p align="center">
