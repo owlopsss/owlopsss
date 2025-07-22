@@ -48,8 +48,3 @@ Here are some ideas to get you started:
   <img src="https://nirzak-streak-stats.vercel.app/?user=owlopsss&theme=dark&hide_border=false" width="400" style="vertical-align: middle;" />
   <img src="img/right.gif" width="200" style="vertical-align: middle;" />
 </p>
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/namamu)
-[![Email](https://img.shields.io/badge/Email-owlopsss@gmail.com-red?style=flat&logo=gmail)](mailto:kamu@email.com)
