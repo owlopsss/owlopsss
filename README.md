@@ -44,9 +44,3 @@ Here are some ideas to get you started:
   <img src="https://nirzak-streak-stats.vercel.app/?user=owlopsss&theme=dark&hide_border=false" width="400" style="vertical-align: middle;" />
   <img src="img/right.gif" width="200" style="vertical-align: middle;" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axolotlops/axolotlops/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axolotlops/axolotlops/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/axolotlops/axolotlops/output/pacman-contribution-graph.svg">
-</picture>
